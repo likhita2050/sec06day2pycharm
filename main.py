@@ -13,6 +13,7 @@ def my_fun(a,b):
 if __name__ == '__main__':
     print_hi('Likhitha')
     print("How are you")
+    print("add thankyou")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
      print(my_fun(2,3))
